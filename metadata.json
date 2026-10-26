@@ -1,0 +1,6 @@
+{
+  "name": "IELTS PrepMaster - Academic Practice Hub",
+  "description": "Personal IELTS Academic training hub with daily entry/exit vocabulary tickets, timed simulations, AI academic reading with Indonesian explanations, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
